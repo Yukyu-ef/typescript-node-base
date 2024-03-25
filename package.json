@@ -23,6 +23,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "linq": "^4.0.2"
+    "linq": "^4.0.2",
+    "linq-es2015": "^2.5.1"
   }
 }

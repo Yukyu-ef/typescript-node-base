@@ -1,6 +1,6 @@
-import Enumerable from "linq";
+import * as Enumerable from "linq-es2015";
 
-// console.log(Enumerable.range(0, 100).sum());
+console.log(Enumerable.range(0, 100).Sum());
 
 const calcMethod = () => {
   let n = 0;
